@@ -60,7 +60,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV]()
+- :paperclip: [My Resume/CV](https://github.com/Bhanu-Prakash01/readme/blob/main/resumes/myCV.pdf)
 - :email: kingkite44@gmail.com
 
 
