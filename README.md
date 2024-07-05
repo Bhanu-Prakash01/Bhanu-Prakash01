@@ -84,11 +84,11 @@ DevLoom Labs is a Agency which provides Saas related services like SEO services,
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          6 mins          █████████▓░░░░░░░░░░░░░░░   39.17 %
-HTML         3 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-TypeScript   3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Git Config   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Python       1 hr 47 mins    ████████████████░░░░░░░░░   64.32 %
+TypeScript   19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Other        17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+JSON         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+CSS          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
